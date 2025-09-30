@@ -2,7 +2,7 @@
 A simple and efficient URL Shortener built using Node.js, Express, MongoDB, and EJS, following the MVC (Model–View–Controller) design pattern.
 This project allows users to shorten long URLs, track visit history, and manage their URLs after authentication.
 
-✨ Features
+# ✨ Features
 
 🔗 Shorten long URLs into unique short links
 
