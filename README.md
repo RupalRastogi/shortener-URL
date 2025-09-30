@@ -16,16 +16,5 @@ This project allows users to shorten long URLs, track visit history, and manage 
 
 🎨 Dynamic views using EJS templates
 
-# 📂 Project Structure
-url-shortener/
-│── models/          # Mongoose schemas (User, URL) → Model
-│── routes/          # Route handlers (user, url, static pages) → Controller
-│── middleware/      # Authentication & Authorization
-│── views/           # EJS templates → View
-│── service/         # Auth service helpers
-│── connect.js       # MongoDB connection setup
-│── index.js         # Main Express app entry
-│── package.json
-│── README.md
 
 
