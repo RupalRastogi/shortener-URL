@@ -1,3 +1,4 @@
+# 📌 URL Shortener
 A simple and efficient URL Shortener built using Node.js, Express, MongoDB, and EJS, following the MVC (Model–View–Controller) design pattern.
 This project allows users to shorten long URLs, track visit history, and manage their URLs after authentication.
 
@@ -15,7 +16,7 @@ This project allows users to shorten long URLs, track visit history, and manage 
 
 🎨 Dynamic views using EJS templates
 
-📂 Project Structure
+# 📂 Project Structure
 url-shortener/
 │── models/          # Mongoose schemas (User, URL)
 │── routes/          # Route handlers (user, url, static pages)
